@@ -1,0 +1,2 @@
+1) Subnet Mask should be same for all the nodes, then the packet can be transfered successfully.
+2) If it is so, then while using different class Ip addresses in a different LAN, then subnet mask would be different.
