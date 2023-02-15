@@ -15,7 +15,7 @@ class Student{
         cout << "Total Student Count: " << studentcount << endl;
     }
 };
-int Student :: studentcount;`
+int Student :: studentcount;
 int main(){
     Student ob1, ob2;
     ob1.setMark(50);
