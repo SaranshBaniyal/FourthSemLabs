@@ -1,0 +1,8 @@
+customer(name,dob,panno,address,pno) (constructors, register(),opensavingaccount(), openfixedaccount())
+save objects of fixed deposit as data members in array of objects
+and save only one saving account object as data member
+
+account(customerid,interest, amount) //iska object nahi banega, this will be a base class
+
+saving(accountno,interest, monthly avg balance), fixed deposit(accountno, tenure, interest, penalty, maturityamount) //derived
+(checkbalance(), closeaccount())
